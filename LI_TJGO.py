@@ -1240,6 +1240,7 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #7f8c8d; padding: 2rem;">
     <p>🌉 <b>Análisis de Líneas de Influencia en Puentes</b></p>
-    <p> Ingeniería Civil Estructural | Ñol ivan Jun de dios Rojas | © 2026 Todos los derechos reservados.</p>
+    <p> Ingeniería Civil Estructural | Ñol Ivan Juan de Dios Rojas | © 2026 Todos los derechos reservados.</p>
 </div>
+
 """, unsafe_allow_html=True)
